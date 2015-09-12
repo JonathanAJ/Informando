@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itens>
+
+	<!-- Item 1 -->
+	<recompensa>
+		<num>1</num>
+		<nome>Mochila Super Inteligente</nome>
+		<narrativa>
+			Essa mochila não é comum, você não guardará livros, cadernos ou canetas nela.Ela simboliza sua mente, nela você guardará tudo o que obter no decorrer dos simulados. Ela é seu primeiro item, continue! Pela frente você receberá mais!
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 2 -->
+	<recompensa>
+		<num>2</num>
+		<nome>Espada da Lógica Afiada</nome>
+		<narrativa>
+			Você tem agora um item bastante útil. Essa espada simboliza sua determinação em seguir no caminho certo, lutando contra as questões erradas e sem lógica. Prossiga para conquistar o item de defesa, que vem logo a seguir.
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 3 -->
+	<recompensa>
+		<num>3</num>
+		<nome>Escudo Épico da Ordenação</nome>
+		<narrativa>
+			As coisas estão começando a complicar para o seu lado, porém, você agora conquistou mais um item, para garantir sua defesa contra a desordem das questões erradas. Esse item simboliza a fortificação da sua concentração.
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 4 -->
+	<recompensa>
+		<num>4</num>
+		<nome>Diamante do Cálculo Brilhante</nome>
+		<narrativa>
+			Você conquistou o último item para se tornar um guerreiro da lógica. Ele simboliza seu brilhantismo em responder as questões corretamente. Você agora poderá se tornar um mago, futuramente esse item será usado para concluir sua etapa mágica. Siga em frente!
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 5 -->
+	<recompensa>
+		<num>5</num>
+		<nome>Incríveis Botas do conhecimento</nome>
+		<narrativa>
+			Com esse item, nem o céu se torna o limite para o seu conhecimento. Ele simboliza sua motivação para buscar mais e mais experiências. Continue dessa forma e você irá longe com essas botas. Não desista!
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 6 -->
+	<recompensa>
+		<num>6</num>
+		<nome>Hiper Arco Caçador de Problemas</nome>
+		<narrativa>
+			As flechas desse arco, conseguem chegar a grandes distâncias, você agora se tornou um verdadeiro caçador de problemas e chegou na metade de seu preparo. Você está a poucos passos de se tornar um mago!
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 7 -->
+	<recompensa>
+		<num>7</num>
+		<nome>Chapéu do Mago Pensante</nome>
+		<narrativa>
+			Esse item representa sua mente, que está mais preparada para solucionar problemas mais complexos. Você pode retirar dele, todas as soluções que necessita. Seu próximo passo é conquistar outro item mágico, vá em frente!
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 8 -->
+	<recompensa>
+		<num>8</num>
+		<nome>Poção Enfeitiçadora das questões erradas</nome>
+		<narrativa>
+			Essa poção simboliza sua capacidade de identificar as questões corretas facilmente. Você agora está em um nível mais alto da lógica. Está a um passo de se tornar um verdadeito Mago! Não desista agora, siga em frente!
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 9 -->
+	<recompensa>
+		<num>9</num>
+		<nome>Livro de Magias Lógicas</nome>
+		<narrativa>
+			Esse é o último item necessário para você se tornar um mago por completo. A partir de agora, você poderá usar esse livro a fim de criar novas magias, para alcançar mais rapidamente as respostas corretas. 	
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 10 -->
+	<recompensa>
+		<num>10</num>
+		<nome>Magnífico Cetro da Razão</nome>
+		<narrativa>
+			Você chegou a um nível inimaginável. Passou por diversos desafios de lógica, ordenação, agrupamento e cálculo. Esse cetro simboliza seu poder lógico, diante dos problemas impostos. Falta pouco para finalizar tudo.
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 11 -->
+	<recompensa>
+		<num>11</num>
+		<nome>Anel Reluzente do Saber</nome>
+		<narrativa>
+			Com esse anel, você está a um passo de se tornar o(a) Mestre da Razão. Porém, ainda tem um último desafio, talvez, o pior de todos. Esse anel simboliza seu preparo para o desafio final, você agora se encontra mais maduro(a). Avante!
+		</narrativa>
+	</recompensa>
+
+	<!-- Item 12 -->
+	<recompensa>
+		<num>12</num>
+		<nome>Coroa da Supremacia Numérica</nome>
+		<narrativa>
+			Você se tornou o Mestre da Razão. Você está apto e compreende bastante os números e a lógica. Mas o desafio não acaba aqui, continue sempre estudando para chegar a níveis colossais de conhecimento. É isso e até a próxima!
+		</narrativa>
+	</recompensa>
+
+	<!-- Evoluções dos Morfãos -->
+	<evolucoes>
+		<!-- Mórfão -->
+		<recompensa>
+			<num>1</num>
+			<nome>Ovo de Mórfão Fêmea</nome>
+			<narrativa>
+				Os Mórfãos são seres do mundo de Ataliu. Quando crescem se tornam grandes lutadores, com poderes incríveis. Sule é o primeiro mórfão que lutará ao seu lado ao longo dessa jornada.
+				Ela é carinhosa, meiga e muito determinada a enfrentar questões erradas.
+				Use sua força, coragem e lógica para resolver corretamente as questões e fazer com que Sule evolua para Nível 1.
+			</narrativa>
+		</recompensa>
+
+		<!-- Mórfão -->
+		<recompensa>
+			<num>2</num>
+			<nome>Ovo de Mórfão Macho</nome>
+			<narrativa>
+				Ayro é o seu segundo mórfão que seguirá com você nessa jornada.
+				Ele é muito corajoso, determinado e possui um espírito de guerreiro imbatível.
+				Não pare agora, continue resolvendo as questões e ajude Ayro a evoluir para o Nível 1.
+			</narrativa>
+		</recompensa>
+
+		<!-- Mórfão -->
+		<recompensa>
+			<num>3</num>
+			<nome>Sule Nvl 1</nome>
+			<narrativa>
+				Sule conseguiu evoluir de um simples ovo para o Nivel 1, e se mostra uma
+				grande amiga para com você enfrentar os diversos problemas que estão por vir.
+				Atraves do poder "Olhar do Conhecimento", Sule te ajuda a seguir o caminho correto das questões.
+				Continue firme com essa amizade, pois muitas batalhas ainda estão por vir.
+			</narrativa>
+		</recompensa>
+
+		<!-- Mórfão -->
+		<recompensa>
+			<num>4</num>
+			<nome>Ayro Nvl 1</nome>
+			<narrativa>
+				Agora Ayro também conseguiu evoluiar para o Nivel 1. Por ser muito leal a você
+				e bastante determinado e concluir essa jornada ao seu lado, Ayro adquiriu o poder "Lealdade Protetora da Lógica",
+				assim ele o ajuda a manter uma logica exata durante a resolução das questôes. Não desista e lembre que Ayro e Sule estão com você.
+			</narrativa>
+		</recompensa>
+
+		<!-- Mórfão -->
+		<recompensa>
+			<num>5</num>
+			<nome>Sule Nvl 2</nome>
+			<narrativa>
+				Muito bem! Sule conseguiu mais uma vez evoluir e agora está no Nível 2.
+	Sule está mais forte e agora adquiriu mais um poder, "Orelhas Escutantes da Verdade". Com esse poder, 
+	ela pode te ajudar a decifrar mais rapidamente a resposta correta. Ao seu lado ela está caminhando muito bem e cada vez mais aumentando seus poderes.
+			</narrativa>
+		</recompensa>
+
+		<!-- Mórfão -->
+		<recompensa>
+			<num>6</num>
+			<nome>Ayro Nvl 2</nome>
+			<narrativa>
+				Ayro está se tornando um guerreiro poderoso, e agora conseguiu evoluir para o Nivel 2, adquirindo o poder "Faro Detector de Mentiras". Assim sua coragem e força para enfrenta o mal das questões erradas esta cada vez maior. Faça como ele, e continue enfrentando esse mal e aumente sua força como Ayro.
+
+			</narrativa>
+		</recompensa>
+
+		<!-- Mórfão -->
+		<recompensa>
+			<num>7</num>
+			<nome>Sule Nvl 3</nome>
+			<narrativa>
+				Nossa, sua complicidade com Sule está cada vez maior. Mais uma vez Sule conseguiu evoluir e ja está no Nivel 3, assim adquiriu mais um poder: "Luz Mental da Sabedoria". Agora vocês tem mais uma vantagem contra a maldade das respostas erradas. Essa amizade vai longe.. Continuem assim.
+			</narrativa>
+		</recompensa>
+
+		<!-- Mórfão -->
+		<recompensa>
+			<num>8</num>
+			<nome>Ayro Nvl 3</nome>
+			<narrativa>
+				Uau, como você e Ayro estão poderosos. Graças a sua determinação, Ayro atingiu agora o Nivel 3, e ganhou mais um poder "Uivo da Ordem Sensata", e agora o raciocinio logico de vocês está cada vez mais afiado. Sigam em frente, falta pouco para o fim da jornada.
+			</narrativa>
+		</recompensa>
+
+		<!-- Mórfão -->
+		<recompensa>
+			<num>9</num>
+			<nome>Sule Nvl 4</nome>
+			<narrativa>
+				Parabéns, Sule conseguiu atingir o nivel 4, ou seja, o Nivel Supremo. A partir de agora vocês são quase invenciveis. Falta pouco para que nenhuma questão seja págio para o companheirismo de vocês. Resolva mais simulados e ajude Ayro a alcançar o Nivel Supremo.
+			</narrativa>
+		</recompensa>
+
+		<!-- Mórfão -->
+		<recompensa>
+			<num>10</num>
+			<nome>Ayro Nvl 4</nome>
+			<narrativa>
+				Você conseguiu!! Graças ao grande companheirismo e amizade entre Ayro, Sule e você, agora Ayro também atingiu o Nivel Supremo. Parabéns! Agora sim juntos vocês são capazes de enfrentar qualquer questão. 
+			</narrativa>
+		</recompensa>
+		
+	</evolucoes>
+
+</itens>

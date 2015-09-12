@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionario>
+
+	<!-- Enunciado 1 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Sr. Obi</titulo>
+		<categoria>Ordenamento linear</categoria>
+		<data>OBI 2010</data>
+		<enunciado>Um empresário chamado Sr. Obi possui exatamente três carros em sua garagem: A, B e C. Todo dia ele dirige um e somente um dos seus carros. As seguintes regras definem suas escolhas dia a dia:
+			<![CDATA[<ul><li>]]>O carro A nunca pode ser dirigido por dois ou mais dias consecutivos.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>O carro B nunca pode ser dirigido imediatamente após o carro C.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>Se ele dirige o carro B por dois ou mais dias consecutivos, o próximo carro que ele dirigir não pode ser C.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>O carro C nunca pode ser dirigido por três ou mais dias consecutivos.<![CDATA[</li></ul>]]>
+		</enunciado>
+
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Qual das alternativas ao lado apresenta uma ordem correta dos carros que o Sr. Obi dirigiu de domingo a sábado?
+		</pergunta>
+		<respostaA>
+			(a) A, B, A, A, C, C, A
+		</respostaA>
+		<respostaB>
+			(b) A, B, A, C, B, B, A
+		</respostaB>
+		<respostaC>
+			(c) A, B, B, A, B, C, C
+		</respostaC>
+		<respostaD>
+			(d) B, B, A, B, C, C, B
+		</respostaD>
+		<respostaE>
+			(e) A, A, A, C, C, B, C
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Considerando um período de cinco dias em que pelo menos dois carros são dirigidos, qual das afirmações NÃO pode ser verdadeira sobre os carros dirigidos nesse período?
+		</pergunta>
+		<respostaA>
+			(a) O carro A nunca é dirigido.
+		</respostaA>
+		<respostaB>
+			(b) O carro B nunca é dirigido.
+		</respostaB>
+		<respostaC>
+			(c) O carro C nunca é dirigido.
+		</respostaC>
+		<respostaD>
+			(d) O carro B foi dirigido em algum momento antes de C.
+		</respostaD>
+		<respostaE>
+			(e) O carro C foi dirigido por dois dias seguidos.
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Se o Sr. Obi dirigiu o carro A na quarta-feira, qual das seguintes afirmações pode ser verdadeira?
+		</pergunta>
+		<respostaA>
+			(a) Ele dirigiu o carro A na quinta-feira.
+		</respostaA>
+		<respostaB>
+			(b) Ele dirigiu o carro B na segunda-feira e na terça-feira.
+		</respostaB>
+		<respostaC>
+			(c) Ele dirigiu o carro B na sexta-feira e o carro C na quinta-feira.
+		</respostaC>
+		<respostaD>
+			(d) Ele dirigiu o carro A na terça-feira.
+		</respostaD>
+		<respostaE>
+			(e) Ele dirigiu o carro A na sexta-feira e no sábado.
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se o Sr. Obi dirigiu o carro B na terça-feira e o carro A na quinta-feira, qual das seguintes afirmações é verdadeira?
+		</pergunta>
+		<respostaA>
+			(a) Ele pode dirigir o carro A na quarta-feira.
+		</respostaA>
+		<respostaB>
+			(b) Ele pode dirigir o carro B na quarta-feira.
+		</respostaB>
+		<respostaC>
+			(c) Ele pode dirigir o carro C na segunda-feira.
+		</respostaC>
+		<respostaD>
+			(d) Ele pode dirigir somente o carro A ou o carro B na quarta-feira.
+		</respostaD>
+		<respostaE>
+			(e) Na segunda-feira ele pode dirigir somente o carro B ou o carro C.
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Se o Sr. Obi dirige o carro A na sexta-feira, qual é o primeiro dia da semana, no futuro, em que ele pode dirigir novamente o mesmo carro?
+		</pergunta>
+		<respostaA>
+			(a) Sábado
+		</respostaA>
+		<respostaB>
+			(b) Domingo
+		</respostaB>
+		<respostaC>
+			(c) Segunda-feira
+		</respostaC>
+		<respostaD>
+			(d) Terça-feira
+		</respostaD>
+		<respostaE>
+			(e) Quarta-feira
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+	</questao>
+
+	<!-- Enunciado 2 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Riquezas de Atlântida</titulo>
+		<categoria>Agrupamento de 1 grupo</categoria>
+		<data>OBI 2008</data>
+		<enunciado>Um arqueólogo finalmente encontrou a submersa cidade de Atlântida. Depois de uma rápida exploração no lugar, ficou muito feliz ao encontrar várias barras de metais valiosos num dos templos. Existem quatro barras: Platina, Ouro, Prata e Bronze; e cada uma pesa 2 quilos. A sequência está ordenada da mais valiosa (Platina) para a menos valiosa (Bronze). O arqueólogo possui apenas uma bolsa para levar as barras para seu barco de pesquisas e existem algumas condições:
+			<![CDATA[<ul><li>]]>A bolsa suporta no máximo 5 quilos.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>As barras ou são colocadas inteiras na bolsa ou não são levadas.<![CDATA[</li></ul>]]>
+		</enunciado>
+
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Quantas viagens são necessárias para o arqueólogo levar todas as barras ao barco?
+		</pergunta>
+		<respostaA>
+			(a) 1
+		</respostaA>
+		<respostaB>
+			(b) 2
+		</respostaB>
+		<respostaC>
+			(c) 3
+		</respostaC>
+		<respostaD>
+			(d) 4
+		</respostaD>
+		<respostaE>
+			(e) 5
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Que barras devem ser colocadas na bolsa para que ela carregue o maior valor possível de metal?
+		</pergunta>
+		<respostaA>
+			(a) Ouro e Platina.
+		</respostaA>
+		<respostaB>
+			(b) Bronze, Prata e Ouro
+		</respostaB>
+		<respostaC>
+			(c) Prata e Ouro.
+		</respostaC>
+		<respostaD>
+			(d) Platina e Bronze.
+		</respostaD>
+		<respostaE>
+			(e) Prata, Ouro e Platina.
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Se a condição das barras terem de ser mantidas inteiras for desconsiderada, ou seja, as barras agora podem ser quebradas e divididas da maneira que o arqueólogo quiser; que barras devem ser colocadas na bolsa para que ela carregue o maior valor possível de metal?
+		</pergunta>
+		<respostaA>
+			(a) Prata, Ouro e Platina inteiras.
+		</respostaA>
+		<respostaB>
+			(b) Bronze e Ouro inteiras e metade da barra de Prata.
+		</respostaB>
+		<respostaC>
+			(c) Platina e Prata inteiras e metade da barra de Bronze.
+		</respostaC>
+		<respostaD>
+			(d) Platina e Ouro inteiras e metade da barra de Prata.
+		</respostaD>
+		<respostaE>
+			(e) Prata e Platina inteiras e metade da barra de Ouro.
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Qual barra possui a maior relação de valor por peso?
+		</pergunta>
+		<respostaA>
+			(a) Ouro.
+		</respostaA>
+		<respostaB>
+			(b) Prata.
+		</respostaB>
+		<respostaC>
+			(c) Platina.
+		</respostaC>
+		<respostaD>
+			(d) Bronze.
+		</respostaD>
+		<respostaE>
+			(e) Todas possuem a relação valor/peso igual.
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Se a condição da bolsa do arqueólogo carregar 5 quilos fosse mudada para uma carga máxima de 7 quilos, quantas viagens seriam necessárias para o arqueólogo levar todas as barras ao barco?
+		</pergunta>
+		<respostaA>
+			(a) 1
+		</respostaA>
+		<respostaB>
+			(b) 2
+		</respostaB>
+		<respostaC>
+			(c) 3
+		</respostaC>
+		<respostaD>
+			(d) 4
+		</respostaD>
+		<respostaE>
+			(e) 5
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+	</questao>
+
+	<!-- Enunciado 3 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Rede de Computadores</titulo>
+		<categoria>Ordenamento livre</categoria>
+		<data>OBI 2010</data>
+		<enunciado>Numa rede de computadores existem quatro máquinas,
+			W, X, Y e Z. Os computadores são conectados entre si por cabos direcionados. Por um cabo ligando, por exemplo, o computador W ao computador X passam mensagens apenas do computador W para o computador X (e não do computador X para o computador W). Os cabos existentes na rede são os seguintes:
+			<![CDATA[<ul><li>]]>de W para X.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>de W para Y.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>de W para Z e de Z para W.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>de X para Y e de Y para X.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>de X para Z.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>de Z para Y.<![CDATA[</li></ul>]]>
+			Uma mensagem pode ir de um computador para outro utilizando apenas um cabo, ou uma sequência de cabos. Por exemplo, na rede descrita, uma mensagem pode ir de W para X utilizando por um único cabo; e uma mensagem pode ir de X para W utilizando dois cabos (passando pelo computador Z).
+		</enunciado>
+
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Se uma mensagem deve ir de Y para X usando o menor número de cabos possíveis, ela deve seguir:
+		</pergunta>
+		<respostaA>
+			(a) diretamente de Y para X.
+		</respostaA>
+		<respostaB>
+			(b) passando apenas por W.
+		</respostaB>
+		<respostaC>
+			(c) passando apenas por Z.
+		</respostaC>
+		<respostaD>
+			(d) passando por W e depois por Z.
+		</respostaD>
+		<respostaE>
+			(e) passando por Z e depois por W.
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Qual das opções abaixo é uma lista completa e correta de máquinas para as quais uma mensagem pode ir, partindo de Z, utilizando um único cabo?
+		</pergunta>
+		<respostaA>
+			(a) W
+		</respostaA>
+		<respostaB>
+			(b) Y
+		</respostaB>
+		<respostaC>
+			(c) W, Y
+		</respostaC>
+		<respostaD>
+			(d) X, Y
+		</respostaD>
+		<respostaE>
+			(e) W, X, Y
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Qual das sequências de cabos abaixo representa um caminho que uma mensagem tem de percorrer para, saindo de X, retornar a X?
+		</pergunta>
+		<respostaA>
+			(a) de X para W, de W para X.
+		</respostaA>
+		<respostaB>
+			(b) de X para Y, de Y para W, de W para Z, de Z para X.
+		</respostaB>
+		<respostaC>
+			(c) de X para Y, de Y para Z, de Z para W, W para X.
+		</respostaC>
+		<respostaD>
+			(d) de X para Z, de Z para W, de W para Y, de Y para X.
+		</respostaD>
+		<respostaE>
+			(e) de X para Z, de Z para Y, de Y para W, de W para X.
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se todos os cabos na rede demoram o mesmo tempo para serem percorridos por uma mensagem e se todas as mensagens sempre viajam pelo caminho mais rápido possível, então o caminho mais demorado que uma mensagem pode percorrer na rede é o caminho de:
+		</pergunta>
+		<respostaA>
+			(a) X para W
+		</respostaA>
+		<respostaB>
+			(b) Y para W.
+		</respostaB>
+		<respostaC>
+			(c) Y para Z.
+		</respostaC>
+		<respostaD>
+			(d) Z para W.
+		</respostaD>
+		<respostaE>
+			(e) Z para X.
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Mensagens restritas são mensagens que devem percorrer um único cabo. Qual cabo deve ser adicionado à rede de forma que cada máquina possa enviar mensagens restritas para pelo menos outras duas máquinas e possa receber mensagens restritas de pelo menos outras duas máquinas?
+		</pergunta>
+		<respostaA>
+			(a) de X a W.
+		</respostaA>
+		<respostaB>
+			(b) de Y a W.
+		</respostaB>
+		<respostaC>
+			(c) de Y para Z.
+		</respostaC>
+		<respostaD>
+			(d) de Z para W.
+		</respostaD>
+		<respostaE>
+			(e) de Z para X.
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+	</questao>
+
+	<!-- Enunciado 4 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Final de ano feliz</titulo>
+		<categoria>Cálculo</categoria>
+		<data>OBI 2010</data>
+		<enunciado>Os alunos da escola resolveram organizar uma loteria de final de ano. Cada aluno paga um valor de aposta e escolhe quatro números distintos entre 1 e 20. No último dia de aulas do ano são sorteados quatro números entre 1 e 20. O prêmio, que é o valor das apostas, é dividido entre os apostadores que acertaram os quatro números sorteados.
+		</enunciado>
+
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Se cada vencedor recebeu R$ 1.200,00 e o valor total do prêmio era de R$ 4.800,00, quantos apostadores acertaram os quatro números?
+		</pergunta>
+		<respostaA>
+			(a) 1
+		</respostaA>
+		<respostaB>
+			(b) 2
+		</respostaB>
+		<respostaC>
+			(c) 3
+		</respostaC>
+		<respostaD>
+			(d) 4
+		</respostaD>
+		<respostaE>
+			(e) 5
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Se exatamente dois apostadores acertaram os números sorteados, quais poderiam ser os números que cada um escolheu?
+		</pergunta>
+		<respostaA>
+			(a) 4, 7, 8, 9 e 3, 6, 7, 8
+		</respostaA>
+		<respostaB>
+			(b) 3, 21, 5, 6 e 3, 21, 5, 6
+		</respostaB>
+		<respostaC>
+			(c) 16, 15, 8, 4 e 16, 14, 8, 4
+		</respostaC>
+		<respostaD>
+			(d) 11, 20, 19 e 11, 20, 19
+		</respostaD>
+		<respostaE>
+			(e) 13, 6, 9, 1 e 9, 6, 1, 13
+		</respostaE>
+		<respostaCerta>e)</respostaCerta>
+
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Tanto para João como para Gustavo faltou acertar apenas um número para ganhar. João escolheu os números 4, 6, 7 e 12, e Gustavo escolheu os números 6, 7, 9 e 18. Quais das alternativas abaixo apresenta uma possível lista dos quatro números sorteados?
+		</pergunta>
+		<respostaA>
+			(a) 4, 6, 8, 20
+		</respostaA>
+		<respostaB>
+			(b) 6, 7, 9, 12
+		</respostaB>
+		<respostaC>
+			(c) 1, 5, 11, 18
+		</respostaC>
+		<respostaD>
+			(d) 1, 9, 13, 18
+		</respostaD>
+		<respostaE>
+			(e) 4, 6, 9, 12
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Sabendo que a soma dos números sorteados resulta em um valor maior que 20, quais poderiam ser estes números?
+		</pergunta>
+		<respostaA>
+			(a) 5, 6, 7, 2
+		</respostaA>
+		<respostaB>
+			(b) 4, 5, 9, 1
+		</respostaB>
+		<respostaC>
+			(c) 3, 7, 1, 11
+		</respostaC>
+		<respostaD>
+			(d) 1, 2, 3, 8
+		</respostaD>
+		<respostaE>
+			(e) 10, 7, 2, 1
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Sabendo que o valor total do prêmio é de R$ 3.270,00, qual o máximo número de apostadores que podem acertar os números sorteados, de modo que cada um deles receba no mínimo R$ 100,00?
+		</pergunta>
+		<respostaA>
+			(a) 21
+		</respostaA>
+		<respostaB>
+			(b) 25
+		</respostaB>
+		<respostaC>
+			(c) 30
+		</respostaC>
+		<respostaD>
+			(d) 32
+		</respostaD>
+		<respostaE>
+			(e) 38
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+	</questao>
+
+
+	<!-- Enunciado 5 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Salvando Arquivos</titulo>
+		<categoria>Agrupamento de 2 ou mais grupos</categoria>
+		<data>OBI 2009</data>
+		<enunciado>Existem dois arquivos na internet, X e Y, que estão sendo salvos por um grupo de sete pessoas: F, G, H, I J, K e L. 
+
+			<![CDATA[<ul><li>]]>Cada urna das sete pessoas deve estar salvando o arquivo X ou o Y. <![CDATA[</li>]]>
+			<![CDATA[<li>]]>Ninguém pode salvar ambos arquivos X e Y. <![CDATA[</li>]]>
+			<![CDATA[<li>]]>F está salvando o mesmo arquivo que G e F não está salvando o mesmo arquivo que J.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>H não pode salvar o mesmo arquivo que I está salvando.<![CDATA[</li></ul>]]>
+
+		</enunciado>
+
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Se H salva o arquivo X, qual das seguintes afirmações é verdadeira?
+		</pergunta>
+		<respostaA>
+			(a) F salva o arquivo X.
+		</respostaA>
+		<respostaB>
+			(b) G salva o arquivo Y.
+		</respostaB>
+		<respostaC>
+			(c) I salva o arquivo Y.
+		</respostaC>
+		<respostaD>
+			(d) K salva o arquivo X.
+		</respostaD>
+		<respostaE>
+			(e) L salva o arquivo Y.
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Se exatamente duas pessoas estão salvando o arquivo X, qual das seguintes pessoas pode ser uma dessas duas? 
+		</pergunta>
+		<respostaA>
+			(a) G
+		</respostaA>
+		<respostaB>
+			(b) H
+		</respostaB>
+		<respostaC>
+			(c) J
+		</respostaC>
+		<respostaD>
+			(d) K
+		</respostaD>
+		<respostaE>
+			(e) L
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Se L não está salvando o mesmo arquivo que K ou I, qual das afirmações seguintes não pode ser verdadeira? 
+		</pergunta>
+		<respostaA>
+			(a) F salva o mesmo arquivo que I.
+		</respostaA>
+		<respostaB>
+			(b) G salva o mesmo arquivo q H.
+		</respostaB>
+		<respostaC>
+			(c) H salva o arquivo que K.
+		</respostaC>
+		<respostaD>
+			(d) I salva o mesmo arquivo que K. 
+		</respostaD>
+		<respostaE>
+			(e) J salva o mesmo arquivo que L.
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se F está salvando o arquivo Y, qual a menor quantidade possível de pessoas que está salvando o arquivo X? 
+		</pergunta>
+		<respostaA>
+			(a) 1.
+		</respostaA>
+		<respostaB>
+			(b) 2.
+		</respostaB>
+		<respostaC>
+			(c) 3.
+		</respostaC>
+		<respostaD>
+			(d) 4.
+		</respostaD>
+		<respostaE>
+			(e) 5.
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Haveria uma única forma de configurar as pessoas com seus arquivos se fosse adicionado uma restrição às condições iniciais. Qual é esta restrição?
+		</pergunta>
+		<respostaA>
+			(a) F e L devem salvar o arquivo X, e H deve salvar o arquivo Y.
+		</respostaA>
+		<respostaB>
+			(b) J deve salvar o arquivo X, e K e L devem salvar o arquivo Y.
+		</respostaB>
+		<respostaC>
+			(c) G e L devem salvar o arquivo X.
+		</respostaC>
+		<respostaD>
+			(d) H e quatro outras pessoas devem salvar o arquivo X.
+		</respostaD>
+		<respostaE>
+			(e) I e três outras pessoas devem salvar o arquivo Y.
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+	</questao>
+
+	<!-- Enunciado 6 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Faxina Semanal</titulo>
+		<categoria>Agrupamento de 2 ou mais grupos</categoria>
+		<data>OBI 2007</data>
+		<enunciado>Cinco irmãos: Alan, Bruno, Carlos, Douglas e Eduardo, resolvem ajudar na limpeza doméstica. Os cômodos que precisam ser limpos são: a Cozinha, a Sala, o Banheiro, o Quarto e o Quintal. A mãe deles irá escolher quem vai trabalhar em qual cómodo, mas eles só trabalham com algumas condições: 
+			<![CDATA[<ul><li>]]>Cada irmão limpa somente um cômodo.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>Eduardo não limpa o Banheiro. <![CDATA[</li>]]>
+			<![CDATA[<li>]]>Bruno só limpa a Sala ou o Quintal.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>Alan limpa qualquer cômodo, mas se Carlos limpar a Cozinha, Alan ir ́a limpar a Sala.<![CDATA[</li></ul>]]>
+
+		</enunciado>
+
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Qual das opções abaixo é uma atribuição de tarefas válida?
+		</pergunta>
+		<respostaA>
+			(a)  Cozinha: Bruno, Sala: Eduardo,
+			Banheiro: Alan, Quarto: Douglas,
+			Quintal: Carlos.
+
+		</respostaA>
+		<respostaB>
+			(b) Cozinha: Alan, Sala: Bruno,
+			Banheiro: Douglas, Quarto: Carlos,
+			Quintal: Eduardo.
+
+		</respostaB>
+		<respostaC>
+			(c) Cozinha: Carlos, Sala: Alan,
+			Banheiro: Bruno, Quarto: Douglas,
+			Quintal: Eduardo.
+
+		</respostaC>
+		<respostaD>
+			(d) Cozinha: Carlos, Sala: Alan,
+			Banheiro: Douglas, Quarto: Bruno,
+			Quintal: Eduardo.
+
+		</respostaD>
+		<respostaE>
+			(e) Cozinha: Carlos, Sala: Douglas,
+			Banheiro: Bruno, Quarto: Eduardo,
+			Quintal: Alan.
+
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Se Carlos limpar a Cozinha, então qual das alternativas abaixo são os cômodos que Douglas pode escolher para limpar?
+		</pergunta>
+		<respostaA>
+			(a) Sala e Quintal.
+		</respostaA>
+		<respostaB>
+			(b) Só a Sala.
+		</respostaB>
+		<respostaC>
+			(c) Banheiro e Quarto.
+		</respostaC>
+		<respostaD>
+			(d) Só o Banheiro.
+		</respostaD>
+		<respostaE>
+			(e) Sala e Quarto.
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Se Alan limpar a Cozinha, então qual das alternativas abaixo s ̃ao os cômodos que Douglas pode escolher para limpar?
+		</pergunta>
+		<respostaA>
+			(a) Sala, Banheiro e Quarto.
+		</respostaA>
+		<respostaB>
+			(b) Só o Banheiro.
+		</respostaB>
+		<respostaC>
+			(c) Sala e Quintal.
+		</respostaC>
+		<respostaD>
+			(d) Sala, Quarto e Quintal.
+		</respostaD>
+		<respostaE>
+			(e) Sala e Banheiro.
+		</respostaE>
+		<respostaCerta>e)</respostaCerta>
+
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se Carlos limpar o Banheiro, então qual das alternativas abaixo s ̃ao os cômodos que Alan pode escolher para limpar? 
+		</pergunta>
+		<respostaA>
+			(a) Cozinha e Quarto.
+		</respostaA>
+		<respostaB>
+			(b) Só o Quintal.
+		</respostaB>
+		<respostaC>
+			(c) Sala e Quintal.
+		</respostaC>
+		<respostaD>
+			(d) Só a Sala.
+		</respostaD>
+		<respostaE>
+			(e) Cozinha, Sala, Quarto e Quintal.
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Se Alan limpar o Quintal, quem ir ́a limpar a Cozinha?
+		</pergunta>
+		<respostaA>
+			(a) Alan.
+		</respostaA>
+		<respostaB>
+			(b) Bruno.
+		</respostaB>
+		<respostaC>
+			(c) Carlos.
+		</respostaC>
+		<respostaD>
+			(d) Douglas.
+		</respostaD>
+		<respostaE>
+			(e) Eduardo.
+		</respostaE>
+		<respostaCerta>e)</respostaCerta>
+	</questao>
+
+	<!-- Enunciado 7 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>A Quitanda</titulo>
+		<categoria>Grupo Ordenado</categoria>
+		<data>OBI 2008</data>
+		<enunciado>
+			Cinco irmãos, José e, Karina, Laura, Maria e Nilo, revezam-se para cuidar da quitanda da família de segunda-feira a sexta-feira. A quitanda deve ter exatamente dois irmãos trabalhando em cada dia, respeitando as seguintes condições:
+			<![CDATA[<ul><li>]]>cada irmão deve trabalhar pelo menos um dia;<![CDATA[</li>]]>
+			<![CDATA[<li>]]>nenhum irmão pode trabalhar três dias consecutivos; <![CDATA[</li>]]>
+			<![CDATA[<li>]]>Karina deve trabalhar na segunda-feira;<![CDATA[</li>]]>
+			<![CDATA[<li>]]>Maria deve trabalhar na quinta-feira e na sexta-feira;<![CDATA[</li>]]>
+			<![CDATA[<li>]]>José não pode trabalhar nos mesmos dias que Karina trabalhar.<![CDATA[</li></ul>]]>
+		</enunciado>
+
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Qualquer um dos irmãos pode estar trabalhando na quarta-feira, exceto:
+		</pergunta>
+		<respostaA>
+			(a)  José
+		</respostaA>
+		<respostaB>
+			(b) Karina
+		</respostaB>
+		<respostaC>
+			(c) Laura
+		</respostaC>
+		<respostaD>
+			(d) Maria
+		</respostaD>
+		<respostaE>
+			(e) Nilo
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Se José está trabalhando exatamente três dias da semana, então dois desses dias devem ser:
+		</pergunta>
+		<respostaA>
+			(a) segunda-feira e quarta-feira
+		</respostaA>
+		<respostaB>
+			(b) terça-feira e quarta-feira
+		</respostaB>
+		<respostaC>
+			(c) terça-feira e sexta-feira
+		</respostaC>
+		<respostaD>
+			(d) quarta-feira e sexta-feira
+		</respostaD>
+		<respostaE>
+			(e) quinta-feira e sexta-feira
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Se Karina está trabalhando exatamente quatro dias da semana então qual dos pares abaixo pode ser os que est ̃ao trabalhando na quarta-feira?
+		</pergunta>
+		<respostaA>
+			(a) José e Laura
+		</respostaA>
+		<respostaB>
+			(b) José e Maria
+		</respostaB>
+		<respostaC>
+			(c) Karina e Laura
+		</respostaC>
+		<respostaD>
+			(d) Karina e Nilo
+		</respostaD>
+		<respostaE>
+			(e) Maria e Nilo
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se José está trabalhando exclusivamente nos mesmos dias que Maria est ́a trabalhando, então qual das opções pode ser verdadeira?
+		</pergunta>
+		<respostaA>
+			(a) José está trabalhando na segunda-feira.
+		</respostaA>
+		<respostaB>
+			(b) José está trabalhando na quarta-feira.
+		</respostaB>
+		<respostaC>
+			(c) Karina está trabalhando na sexta-feira.
+		</respostaC>
+		<respostaD>
+			(d) Laura está trabalhando na sexta-feira.
+		</respostaD>
+		<respostaE>
+			(e) Nilo está trabalhando na terça-feira.
+		</respostaE>
+		<respostaCerta>e)</respostaCerta>
+
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Se Karina está trabalhando somente um dia e Laura está trabalhando exatamente quatro dias, então qual par de irmãos abaixo está trabalhando na quarta-feira?
+		</pergunta>
+		<respostaA>
+			(a) José e Laura
+		</respostaA>
+		<respostaB>
+			(b) José e Nilo
+		</respostaB>
+		<respostaC>
+			(c) Karina e Laura
+		</respostaC>
+		<respostaD>
+			(d) Laura e Maria
+		</respostaD>
+		<respostaE>
+			(e) Laura e Nilo
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+	</questao>
+
+
+	<!-- Enunciado 8 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Gincana de Programação </titulo>
+		<categoria>Agrupamento de 2 ou mais grupos</categoria>
+		<data>OBI 2013</data>
+		<enunciado>
+			A SBC vai promover a primeira Gincana de Programação, uma competição de programação em que o competidor deve resolver cinco tarefas de programação (A, B, C, D e E), durante um final de semana (sábado e domingo). As tarefas devem ser enviadas para a SBC, pela internet, de acordo com as seguintes regras:
+			<![CDATA[<ul><li>]]>Duas ou três das tarefas devem ser enviadas no sábado, as restantes no domingo. <![CDATA[</li>]]>
+			<![CDATA[<li>]]>A tarefa A não pode ser enviada no mesmo dia em que a tarefa C é enviada. <![CDATA[</li>]]>
+			<![CDATA[<li>]]>A tarefa B deve ser enviada no domingo. <![CDATA[</li>]]>
+			<![CDATA[<li>]]>A tarefa D deve ser enviada no mesmo dia em que a tarefa A é enviada. <![CDATA[</li>]]>
+			<![CDATA[<li>]]>Se a tarefa C é enviada no sábado, então a tarefa D deve ser enviada no domingo<![CDATA[</li></ul>]]>
+			João vai participar da competição e pediu sua ajuda para seguir as regras corretamente
+		</enunciado>
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Se João quiser submeter três tarefas no sábado, elas poderiam ser: 
+		</pergunta>
+		<respostaA>
+			(a)  A, B e D
+		</respostaA>
+		<respostaB>
+			(b) A, D e E 
+		</respostaB>
+		<respostaC>
+			(c) A, D e C
+		</respostaC>
+		<respostaD>
+			(d) B, C e E
+		</respostaD>
+		<respostaE>
+			(e) A, C e E
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Qual das seguintes alternativas é uma lista completa e correta de tarefas que João poderia enviar no sábado?
+		</pergunta>
+		<respostaA>
+			(a) C e E
+		</respostaA>
+		<respostaB>
+			(b) A, C e D
+		</respostaB>
+		<respostaC>
+			(c) B, C, D e E
+		</respostaC>
+		<respostaD>
+			(d) A, C, D e E
+		</respostaD>
+		<respostaE>
+			(e) A, B, C, D e E
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Se João quiser submeter a tarefa B e a tarefa E no mesmo dia, qual das seguintes afirmativas é necessariamente verdadeira?
+		</pergunta>
+		<respostaA>
+			(a) João deve enviar exatamente três tarefas no domingo.
+		</respostaA>
+		<respostaB>
+			(b) João deve enviar exatamente três tarefas no sábado.
+		</respostaB>
+		<respostaC>
+			(c) A tarefa A deve ser enviada no mesmo dia que a tarefa B.
+		</respostaC>
+		<respostaD>
+			(d) A tarefa B deve ser enviada no mesmo dia que a tarefa D.
+		</respostaD>
+		<respostaE>
+			(e) A tarefa E deve ser enviada no mesmo dia que a tarefa D.
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se João enviar a tarefa D no domingo, qual dos seguintes pares de tarefas poderia também ser enviado no domingo?
+		</pergunta>
+		<respostaA>
+			(a) A e B
+		</respostaA>
+		<respostaB>
+			(b) A e C
+		</respostaB>
+		<respostaC>
+			(c) C e E
+		</respostaC>
+		<respostaD>
+			(d) B e C
+		</respostaD>
+		<respostaE>
+			(e) B e E
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Qual das seguintes alternativas é necessariamente verdadeira?
+		</pergunta>
+		<respostaA>
+			(a) João deve enviar a tarefa C no sábado.
+		</respostaA>
+		<respostaB>
+			(b) João deve enviar a tarefa A no sábado.
+		</respostaB>
+		<respostaC>
+			(c) Se João enviar a tarefa E no domingo, deve enviar a tarefa A no domingo.
+		</respostaC>
+		<respostaD>
+			(d) Se João enviar a tarefa C no domingo, deve enviar a tarefa A no domingo.
+		</respostaD>
+		<respostaE>
+			(e) Se João enviar a tarefa D no domingo, deve enviar a tarefa E no sábado.
+		</respostaE>
+		<respostaCerta>e)</respostaCerta>
+	</questao>
+
+
+	<!-- Enunciado 9 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Processadores</titulo>
+		<categoria>Ordenamento</categoria>
+		<data>OBI 2011</data>
+		<enunciado>
+			O processador é o componente mais importante de um computador. Uma medida da velocidade de um processador é o número de operações básicas, como somas e multiplicações, que ele consegue realizar por segundo (processadores usados em computadores pessoais são capazes de realizar bilhões de operações por segundo). José Carlos está fazendo um estudo sobre as velocidades dos seguintes processadores existentes no mercado: R, S, T, U, V, X, Y e Z. Através de experimentos, José Carlos determinou as seguintes condições:
+			<![CDATA[<ul><li>]]>O processador X é mais veloz do que os processadores T e Z. <![CDATA[</li>]]>
+			<![CDATA[<li>]]>O processador Z é mais veloz do que os processadores T e Y. <![CDATA[</li>]]>
+			<![CDATA[<li>]]>O processador T é mais veloz do que o processador R.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>O processador R é mais veloz do que o processador V.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>O processador Y é mais veloz do que o processador V.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>O processador U é mais veloz do que o processador R mas é mais lento do que o processador S.<![CDATA[</li></ul>]]>
+		</enunciado>
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Qual dos processadores seguintes pode ser o mais veloz?
+		</pergunta>
+		<respostaA>
+			(a) V
+		</respostaA>
+		<respostaB>
+			(b) R
+		</respostaB>
+		<respostaC>
+			(c) U
+		</respostaC>
+		<respostaD>
+			(d) S
+		</respostaD>
+		<respostaE>
+			(e) Z
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Qual das alternativas seguintes pode ser falsa?
+		</pergunta>
+		<respostaA>
+			(a) T é mais veloz do que V.
+		</respostaA>
+		<respostaB>
+			(b) U é mais veloz do que V.
+		</respostaB>
+		<respostaC>
+			(c) X é mais veloz do que S.
+		</respostaC>
+		<respostaD>
+			(d) Z é mais veloz do que R.
+		</respostaD>
+		<respostaE>
+			(e) Z é mais veloz do que V.
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Qual das alternativas seguintes é necessariamente falsa?
+		</pergunta>
+		<respostaA>
+			(a) R é mais veloz do que Z.
+		</respostaA>
+		<respostaB>
+			(b) S é mais veloz do que X.
+		</respostaB>
+		<respostaC>
+			(c) S é mais veloz do que Y.
+		</respostaC>
+		<respostaD>
+			(d) U é mais veloz do que Z..
+		</respostaD>
+		<respostaE>
+			(e) Y é mais veloz do que T.
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se o processador S tem a mesma velocidade do que o processador Y, então qual das alternativas seguintes é necessariamente verdadeira?
+		</pergunta>
+		<respostaA>
+			(a) T é mais veloz do que U.
+		</respostaA>
+		<respostaB>
+			(b) V é mais veloz do que S.
+		</respostaB>
+		<respostaC>
+			(c) Z é mais veloz do que U.
+		</respostaC>
+		<respostaD>
+			(d) Z é mais lento do que U.
+		</respostaD>
+		<respostaE>
+			(e) Z é mais lento do que S.
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Se o processador U é mais veloz do que o processador Z, quantos processadores poderiam ser o terceiro mais veloz?
+		</pergunta>
+		<respostaA>
+			(a) 1
+		</respostaA>
+		<respostaB>
+			(b) 2
+		</respostaB>
+		<respostaC>
+			(c) 3
+		</respostaC>
+		<respostaD>
+			(d) 4
+		</respostaD>
+		<respostaE>
+			(e) 5
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+	</questao>
+
+
+	<!-- Enunciado 10 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Rali de Informática</titulo>
+		<categoria>Ordenamento</categoria>
+		<data>OBI 2011</data>
+		<enunciado>
+			O professor de informática da escola inventou uma nova modalidade de competição, que ele denominou de Rali de Informática. Beto, Chico, Davi e Enzo se inscreveram para participar do primeiro Rali de Informática da escola. Nesse tipo de prova, realizada em turnos, apenas um computador é utilizado. A cada turno, os competidores devem completar uma tarefa, que envolve utilizar o computador para buscar informações na Internet e efetuar cálculos. Um competidor é eliminado quando não consegue completar a tarefa no tempo determinado pelo professor (o competidor eliminado não participa dos turnos seguintes). Como há apenas um computador, os competidores são inicialmente ordenados em uma fila que determina a ordem em que eles realizam a tarefa. A ordem dos competidores na fila é alterada ao final de cada turno, de acordo com uma das seguintes regras:
+			<![CDATA[<ul><li>]]>Regra X: o competidor em terceiro lugar na fila é colocado na posição imediatamente à frente do competidor que estava em segundo lugar na fila.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>Regra Y: o competidor em terceiro lugar na fila é colocado na posição imediatamente à frente do competidor que estava em primeiro lugar na fila.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>Regra Z: o competidor em último lugar na fila é colocado em primeiro lugar.<![CDATA[</li></ul>]]>
+			A regra a ser utilizada em cada turno é escolhida pelo próprio professor, mas se uma regra envolve o movimento de um competidor que foi eliminado, essa regra não pode ser usada (por exemplo, se Beto é o terceiro da fila em um turno e é eliminado nesse turno, a regra X não pode ser utilizada).
+		</enunciado>
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Se a ordem em um turno é Beto, Chico, Davi e Enzo, e nenhum competidor é eliminado nesse turno, qual das alternativas abaixo pode ser uma ordem possível para o próximo turno?
+		</pergunta>
+		<respostaA>
+			(a) Davi, Chico, Beto e Enzo
+		</respostaA>
+		<respostaB>
+			(b) Davi, Beto, Enzo e Chico
+		</respostaB>
+		<respostaC>
+			(c) Davi, Beto, Chico e Enzo
+		</respostaC>
+		<respostaD>
+			(d) Beto, Chico, Enzo e Davi
+		</respostaD>
+		<respostaE>
+			(e) Beto, Davi, Enzo e Chico
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Se a ordem em um turno é Enzo,
+			Beto, Chico e Davi, e se apenas Chico é eliminado nesse turno, qual das alternativas seguintes deve necessariamente ser a ordem da fia no próximo turno?
+
+		</pergunta>
+		<respostaA>
+			(a) Beto, Davi, Enzo
+		</respostaA>
+		<respostaB>
+			(b) Beto, Enzo, Davi
+		</respostaB>
+		<respostaC>
+			(c) Davi, Beto, Enzo
+		</respostaC>
+		<respostaD>
+			(d) Davi, Enzo, Beto
+		</respostaD>
+		<respostaE>
+			(e) Enzo, Beto, Davi
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Se a ordem em um turno é Chico,
+			Beto, Davi e Enzo, e se ninguém é eliminado nesse turno, qual das alternativas seguintes deve necessariamente verdadeira, considerando a ordem próximo turno?
+
+		</pergunta>
+		<respostaA>
+			(a) Beto é o terceiro
+		</respostaA>
+		<respostaB>
+			(b) Chico é o segundo
+		</respostaB>
+		<respostaC>
+			(c) Davi é o primeiro
+		</respostaC>
+		<respostaD>
+			(d) Enzo é o primeiro
+		</respostaD>
+		<respostaE>
+			(e) Enzo é o quarto
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se a ordem em um turno é Beto, Davi, Enzo e Chico, e se ninguém é eliminado nesse turno, qual das alternativas seguintes poderia ser a ordem do próximo turno?
+		</pergunta>
+		<respostaA>
+			(a) Beto, Chico, Enzo, Davi
+		</respostaA>
+		<respostaB>
+			(b) Chico, Beto, Enzo, Davi
+		</respostaB>
+		<respostaC>
+			(c) Chico, Enzo, Beto, Chico
+		</respostaC>
+		<respostaD>
+			(d) Davi, Beto, Enzo, Chico
+		</respostaD>
+		<respostaE>
+			(e) Enzo, Beto, Davi, Chico
+		</respostaE>
+		<respostaCerta>e)</respostaCerta>
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Se no primeiro turno e no segundo turno ninguém é eliminado, e se a ordem dos competidores no terceiro turno é igual à ordem no primeiro turno, qual das seguintes alternativas representa as regras utilizadas até o momento?		
+		</pergunta>
+		<respostaA>
+			(a) X seguida de Y	
+		</respostaA>
+		<respostaB>
+			(b) X, seguida de X
+		</respostaB>
+		<respostaC>
+			(c) Y, seguida de X
+		</respostaC>
+		<respostaD>
+			(d) Z, seguida de Y
+		</respostaD>
+		<respostaE>
+			(e) Z, seguida de Z
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+	</questao>
+
+
+	<!-- Enunciado 11 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Pizza Compartilhada</titulo>
+		<categoria>Ordenamento</categoria>
+		<data>OBI 2011</data>
+		<enunciado>
+			Uma grande pizza vai ser feita para comemorar a vitória do time de handebol da escola, composto por seis alunos. A pizza vai ser dividida em seis pedaços da forma tradicional, como mostrado na figura abaixo, e cada pedaço vai ser dado a um atleta do time.
+
+			Cada atleta prefere um tipo diferente de pizza, e portanto a pizza vai ser feita com seis sabores distintos: atum, bacon, calabresa, mussarela, napolitana e portuguesa. Por solicitação dos atletas, as seguintes condições devem ser obedecidas:
+
+			<![CDATA[<ul><li>]]>O pedaço de portuguesa não deve ser vizinho do pedaço de bacon.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>O pedaço de atum não deve ser vizinho do pedaço de mussarela.<![CDATA[</li>]]>
+			<![CDATA[<li>]]>O pedaço de napolitana deve ser vizinho do pedaço de mussarela.<![CDATA[</li></ul>]]>
+
+		</enunciado>
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			Se o pedaço de napolitana está imediatamente à direita do pedaço de atum, qual pedaço deve estar imediatamente à direita do pedaço de napolitana?
+		</pergunta>
+		<respostaA>
+			(a) atum
+		</respostaA>
+		<respostaB>
+			(b) bacon
+		</respostaB>
+		<respostaC>
+			(c) calabresa
+		</respostaC>
+		<respostaD>
+			(d) mussarela
+		</respostaD>
+		<respostaE>
+			(e) portuguesa
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Qual das alternativas seguintes é um arranjo possível para os pedaços de pizza?
+
+		</pergunta>
+		<respostaA>
+			(a) mussarela, atum, napolitana, portuguesa, bacon,calabresa
+		</respostaA>
+		<respostaB>
+			(b) mussarela, atum, portuguesa, bacon, napolitana, calabresa
+		</respostaB>
+		<respostaC>
+			(c) portuguesa, calabresa, bacon, atum, mussarela, napolitana
+		</respostaC>
+		<respostaD>
+			(d) portuguesa, napolitana, mussarela, bacon, atum, calabresa
+		</respostaD>
+		<respostaE>
+			(e) portuguesa, atum, napolitana, mussarela, calabresa, bacon
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Se o pedaço de mussarela é vizinho do pedaço de bacon, qual das alternativas seguintes é uma lista correta e completa dos pedaços que podem também ser vizinhos do pedaço de bacon?
+
+		</pergunta>
+		<respostaA>
+			(a) calabresa
+		</respostaA>
+		<respostaB>
+			(b) calabresa, atum
+		</respostaB>
+		<respostaC>
+			(c) calabresa, atum, napolitana
+		</respostaC>
+		<respostaD>
+			(d) napolitana, atum, portuguesa
+		</respostaD>
+		<respostaE>
+			(e) calabresa, napolitana, atum, portuguesa
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se o pedaço de portuguesa é vizinho do pedaço de mussarela, e o pedaço de atum é vizinho do de napolitana, qual sabor tem o pedaço que é o outro vizinho do pedaço de atum?
+		</pergunta>
+		<respostaA>
+			(a) bacon
+		</respostaA>
+		<respostaB>
+			(b) calabresa
+		</respostaB>
+		<respostaC>
+			(c) mussarela
+		</respostaC>
+		<respostaD>
+			(d) napolitana
+		</respostaD>
+		<respostaE>
+			(e) portuguesa
+		</respostaE>
+		<respostaCerta>a)</respostaCerta>
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Se há exatamente dois pedaços entre o pedaço de portuguesa e o pedaço de calabresa, qual das alternativas seguintes mostra os pedaços que necessariamente são vizinhos do pedaço de bacon?
+		</pergunta>
+		<respostaA>
+			(a) mussarela e calabresa
+		</respostaA>
+		<respostaB>
+			(b) mussarela e atum
+		</respostaB>
+		<respostaC>
+			(c) calabresa e napolitana
+		</respostaC>
+		<respostaD>
+			(d) napolitana e portuguesa
+		</respostaD>
+		<respostaE>
+			(e) calabresa e atum
+		</respostaE>
+		<respostaCerta>e)</respostaCerta>
+	</questao>
+
+
+	<!-- Enunciado 12 -->
+	<questao>
+		<!-- Iniciais -->
+		<titulo>Fila no Banco</titulo>
+		<categoria>Cálculo</categoria>
+		<data>OBI 2009</data>
+		<enunciado>
+			Um banco possui 3 caixas, A, B e C, para atender aos seus clientes. O caixa A atende 2 clientes por minuto, o caixa B atende 1,5 clientes por minuto, e o caixa C atende 0,5 clientes por minuto. Inicialmente os caixas não estão atendendo ninguém e a fila de clientes está com 100 pessoas.
+		</enunciado>
+
+		<!-- Pergunta 1 -->
+		<pergunta>
+			O tempo que cada um dos caixas A, B e C demora para atender um único cliente é respectivamente de:
+		</pergunta>
+		<respostaA>
+			(a) 60 seg., 120 seg. e 180 seg.
+		</respostaA>
+		<respostaB>
+			(b) 30 seg., 20 seg. e 60 seg.
+		</respostaB>
+		<respostaC>
+			(c) 1 min., 2 min. e 2 min.
+		</respostaC>
+		<respostaD>
+			(d) 30 seg., 40 seg. e 2 min.
+		</respostaD>
+		<respostaE>
+			(e) 0,5 min., 20 seg. e 120 seg.
+		</respostaE>
+		<respostaCerta>d)</respostaCerta>
+
+
+		<!-- Pergunta 2-->
+		<pergunta>
+			Depois de 2 minutos quantos clientes foram ao todo atendidos nos três caixas?
+
+		</pergunta>
+		<respostaA>
+			(a) 6
+		</respostaA>
+		<respostaB>
+			(b) 7
+		</respostaB>
+		<respostaC>
+			(c) 8
+		</respostaC>
+		<respostaD>
+			(d) 9
+		</respostaD>
+		<respostaE>
+			(e) 9,5
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+		<!-- Pergunta 3-->
+		<pergunta>
+			Se somente o caixa A estiver atendendo, em quanto tempo os 100 clientes serão atendidos?
+
+		</pergunta>
+		<respostaA>
+			(a) 20 min.
+		</respostaA>
+		<respostaB>
+			(b) 25 min.
+		</respostaB>
+		<respostaC>
+			(c) 30 min.
+		</respostaC>
+		<respostaD>
+			(d) 40 min.
+		</respostaD>
+		<respostaE>
+			(e) 50 min.
+		</respostaE>
+		<respostaCerta>e)</respostaCerta>
+
+		<!-- Pergunta 4-->
+		<pergunta>
+			Se somente os caixas B e C estiverem atendendo, quantos clientes serão atendidos em 10 minutos?
+		</pergunta>
+		<respostaA>
+			(a) 7
+		</respostaA>
+		<respostaB>
+			(b) 15
+		</respostaB>
+		<respostaC>
+			(c) 20
+		</respostaC>
+		<respostaD>
+			(d) 30
+		</respostaD>
+		<respostaE>
+			(e) 35
+		</respostaE>
+		<respostaCerta>c)</respostaCerta>
+
+		<!-- Pergunta 5-->
+		<pergunta>
+			Foram atendidos 24 clientes em 16 minutos, quais caixas estavam atendendo?
+		</pergunta>
+		<respostaA>
+			(a) Somente o caixa A.
+		</respostaA>
+		<respostaB>
+			(b) Somente o caixa B.
+		</respostaB>
+		<respostaC>
+			(c) Somente o caixa C.
+		</respostaC>
+		<respostaD>
+			(d) Caixas A e B.
+		</respostaD>
+		<respostaE>
+			(e) Caixas B e C.
+		</respostaE>
+		<respostaCerta>b)</respostaCerta>
+	</questao>
+</questionario>

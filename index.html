@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<script type="text/javascript">
+		if(localStorage.inicial=='true'){
+			var link = 'principal.html';
+		}
+	</script>
+
+
+
+	<meta charset="UTF-8"/>
+	<title>Informando Login</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<link rel="stylesheet" type="text/css" href="img/ico/fontello/css/fontello.css">
+</head>
+<body>
+	<div id="principal" class="principal">
+		<div id="cabecalho" class="cabecalho cor-lilas-op">
+
+			<div class="logo-div">
+				<div  class="logo">
+					<img src="img/imagens/logo.png" />
+				</div>
+			</div>	
+		</div>
+
+		
+		<div class="div-login">
+			<div id="avatar" class="avatar avatarLogin">
+			</div>
+			<div id="form-div" class="form-div">
+				<form id="form-login" class="form-login">
+					<label for="nome" class="label-login">Aluno:</label>
+					<input id="nome-login" autofocus class="nome-login" type="text" name="nome" placeholder="Insira seu nome"/>
+					<br>
+
+					<label for="nome" class="label-login">Você é?:</label>
+					<div class="select-sexo icon-select">
+						<select id='select-sexo-id' name="sexo">
+							<option value="selecione" selected="selected">Selecione</option>
+							<option value="menino">Menino</option>
+							<option value="menina">Menina</option>
+						</select>
+					</div>
+					<br>
+					
+					<a id="entrar-login" class="entrar-login" href="principal.html"><p>entrar</p></a>
+				</form>
+			</div>
+		</div>
+
+		<div id="rodape" class="rodape cor-lilas-op">
+			<div id="icones-rodape" class="icones-rodape">
+				<i id="info" data-tooltip='Informações' class="info icon-info-circled icones-t"></i>
+				<i id="help" data-tooltip='Ajuda' class="help icon-help-circled icones-t"></i>
+			</div>
+		</div>
+	</div>
+
+	<!-- Tooltip -->
+	<p class="tooltip"></p>
+
+	<!-- Notificações -->
+	<div id="notificacoes" class="notificacoes">
+		<div id="notificacoes-sub" class="notificacoes-sub hide">
+			<div class="tri"></div>
+			<p>
+			</p>
+		</div>
+	</div>
+
+	<!-- Dialogs -->	
+	<div class="informacao">
+		<div class="informacao-div">
+			<i id="info-d" class="icon-cancel-circled-3 fechar-dialog"></i>
+			<div class="dialog-titulo">
+				<p>Informações sobre o recurso Informando</p>
+			</div>
+			<div class="dialog-conteudo">
+				<p>
+					<b>Informando</b> é um projeto que visa estabelecer uma metodologia didática e virtual, para aprendizagem de lógica, voltado para crianças e pré-adolescentes que desejam participar da OBI(Olimpíada Brasileira de Informática). Nele, estão dispostas abas de Conteúdo, Simulados e Resultados.
+				</p>
+				<div class="info-p2">
+					<p>
+						Esse projeto foi construído pela equipe de desenvolvimento <b>4Eyes</b>, composta por estudantes da <b>Universidade Federal do Ceará</b>, os quais são, Jonathan Alves (Desenvolvedor e Designer Web);  Hareta Alves (Designer Gráfico e Ilustradora); Everton Azevedo (Designer de Produto); e Alexandre Germano (Pesquisador).
+					</p>
+				</div>
+				<div class="info-p3">
+					<p>
+						Agradecemos o apoio dos respectivos professores: Glaudiney Moreira Mendonça, Carlos Eduardo Brito, José Aires de Castro, Raquel Santiago Freire, Priscila Barros David e Ricardo Brauner dos Santos.
+					</p>
+				</div>
+				<div class="info-img3">
+					<img src="img/imagens/ufc.png" style="width: 55px; margin-top: 15px;" />
+				</div>
+				<div class="info-img2">
+					<img src="img/imagens/4eyes.png" style="width: 85px; margin-top: 5px;" />
+				</div>
+				<div class="info-img2">
+					<img src="img/imagens/cubo.png" style="width: 75px;" />
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ajuda">
+		<div class="ajuda-div">
+			<i id="help-d" class="icon-cancel-circled-3 fechar-dialog"></i>
+			<div class="dialog-titulo">
+				<p>Podemos ajudar?</p>
+			</div>
+			<div class="dialog-conteudo">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada commodo lorem nec vestibulum. Vivamus scelerisque tincidunt libero. Donec sed velit eu quam fermentum efficitur nec eu augue. Vivamus ut augue quis dui ultrices varius. Suspendisse ac velit vel mauris hendrerit interdum eget nec ipsum. Duis vel vestibulum odio. Integer iaculis tristique tellus a malesuada. Mauris ac purus scelerisque lectus scelerisque rutrum vitae vel nisl. Sed eu tincidunt tortor, ornare gravida dolor.
+				</p>
+			</div>
+		</div>
+	</div>
+
+
+	<script type="text/javascript" src="lib/jquery-2.1.1.js"></script>
+	<script type="text/javascript" src="lib/jquery.easing.1.3.min.js"></script>
+	<script type="text/javascript" src="lib/jquery.mCustomScrollbar.concat.min.js"></script>
+	<script type="text/javascript" src="script/scriptGeral.js"></script>
+
+</body>
+</html>
